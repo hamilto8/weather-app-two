@@ -1,0 +1,22 @@
+html, body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: none;
+    height: 100%;
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,0.2649572649572649) 35%, rgba(0,212,255,1) 100%);
+}
+
+.main {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.convertTemp {
+    border-radius: 12px;
+}
+
+#location-input{
+    border-radius: 10px;
+    padding: 10px;
+}
