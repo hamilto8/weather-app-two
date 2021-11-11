@@ -1,0 +1,6 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+darkSkyAPIKey.js
+openWeatherAPIKey.js 
+
+node_modules
