@@ -1,8 +1,9 @@
 import openWeatherAPIKey from './openWeatherAPIKey';
 import {cityName} from './script';
 import getWeather from './getWeather';
-
+// this is the latitude
 let latitude;
+// this is the longitude
 let longitude;
 
 let latLong = {};
